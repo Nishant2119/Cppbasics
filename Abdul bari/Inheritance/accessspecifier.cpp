@@ -13,7 +13,7 @@ public:
     int getbreadth();
     int rectanglearea();
  protected:
-    int printdata()
+    void printdata()
     {
         cout<<"This is a protected class";
     }
